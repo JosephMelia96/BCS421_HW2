@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GPA_melij_calc</string>
+    <string name="message1">Input your grades from this semester</string>
+    <string name="grade1">Class 1</string>
+    <string name="grade2">Class 2</string>
+    <string name="grade3">Class 3</string>
+    <string name="grade4">Class 4</string>
+    <string name="grade5">Class 5</string>
+    <string name="autoHint">grade</string>
+    <string name="findGPA">Compute GPA</string>
+    <string name="clr">Clear</string>
+    <string name="gpaIs">Your GPA is:\u0020 </string>
+
+</resources>
